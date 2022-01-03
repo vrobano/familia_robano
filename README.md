@@ -1,2 +1,2 @@
 # familia_robano
-Historias y recuerdos de la familia Robano Chassale en Uruguay
+Historias y recuerdos de la familia Robano en Uruguay
