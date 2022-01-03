@@ -1,0 +1,29 @@
+---
+title: "Historias y recuerdos de la familia Robano en Uruguay"
+image: "casamiento.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Historias
+
+Vamos a ir alimentando este sitio con nuestras historias y recuerdos
+
+Puse la foto del casamiento de los abuelos Célica y Alberto para ser inclusiva con la descendencia, pero sugiero que agreguemos la foto más antigua que tengamos de los Robano, así la rama de Claudio queda incluida también, ¿si?
+
+## Contribuciones
+
+* **Ana Robano** 
+
+* **Alberto Robano** (in memoriam)
+
+* **Virginia Robano**
